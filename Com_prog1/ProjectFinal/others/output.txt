@@ -1,0 +1,4 @@
+kao: Balance = 100100.00
+Black Jack: #plays = 0 #Black Jack = 0
+Nam tao: #plays = 0 #Nam tao = 0
+Ladder: #plays = 0 #Ladder = 0

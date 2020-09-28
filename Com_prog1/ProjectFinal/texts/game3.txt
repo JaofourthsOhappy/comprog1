@@ -1,0 +1,7 @@
+This game called "Snake ladder".
+In this game you must go to the goal
+before computer to win.
+You can only press ENTER to dice.
+This game has 2 types of obstacles which are snakes that will
+make you go back to their tails position and ladder that will make you go up to its top position. Game will calculate your last position if you run into an obstacle.
+The winner is first player who goes to goal

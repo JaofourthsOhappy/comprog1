@@ -1,0 +1,7 @@
+This game called "Hoo Hay How" . 
+In this game you can place your bet 
+as many you want in 6 choices. 
+After you're ready, you can press
+play button to see the result and 
+your balance. By the game's rules, you'll win 1 point for each your bet is same as dealer's and lose 1 point for each your bet isn't same as dealer's .Finally, you can choose
+to play again or quit this game.
